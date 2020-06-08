@@ -1,0 +1,33 @@
+/* ============================ ID SECTION ============================*/
+#fondo{
+    background-color: silver;
+}
+#title{
+    text-align: center;
+    background-color: beige;
+}
+#img-div{
+    text-align: center;
+    background-color:white;
+    margin: 3%;
+    padding-bottom: 3%;
+}
+#image{
+
+}
+#nombre {
+    text-align: center;
+}
+#portada {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#tribute-info{
+    
+}
+/* ============================ CLASS SECTION =========================*/
+.tex {
+    text-align: justify;
+}
